@@ -1,7 +1,7 @@
 export const environment = {
     production: false,
-    userBaseUrl: 'http://localhost:5004',
-    blogBaseUrl: 'http://localhost:5002',
-    commentBaseUrl: 'http://localhost:5003',
-    imageBaseUrl: 'http://localhost:5005'
+    userBaseUrl: 'http://umang-user.itcblogs.xyz',
+    blogBaseUrl: 'http://umang-blog.itcblogs.xyz',
+    commentBaseUrl: 'http://umang-comment.itcblogs.xyz',
+    imageBaseUrl: 'http://umang-image.itcblogs.xyz'
   };
